@@ -1,2 +1,2 @@
 # tea-machine
-sample of tea machine
+take a bowl.
